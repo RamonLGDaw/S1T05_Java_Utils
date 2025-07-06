@@ -1,0 +1,15 @@
+You're not alone — many developers feel the same way about Java. It’s often criticized for being:
+
+    Verbose: Lots of boilerplate code just to do something simple.
+
+    Heavy on syntax: Things like getters/setters, class declarations, etc., can make code unnecessarily long.
+
+    More rigid: Especially compared to modern languages like Python, Kotlin, or JavaScript.
+
+If you're finding Java frustrating, you might enjoy trying one of these:
+
+    Kotlin: Interoperable with Java but much more concise and expressive.
+
+    Python: Very beginner-friendly, clean syntax, and great for scripting or data science.
+
+    JavaScript/TypeScript: Powerful for web development with more flexibility and less ceremony.
